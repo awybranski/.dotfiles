@@ -14,7 +14,7 @@ alias targz=targzfunc
 alias untar=untarfunc
 alias cselab="ssh -p 222 alaynaaw@129.252.130.186"
 # Trash alias instead of using rm
-alias trash="mv -t ~/.TRASH/*"
+alias trash="mv -t ~/.TRASH"
 alias rmtrash="rm -rf ~/.TRASH/*"
 ##########
 # Functions

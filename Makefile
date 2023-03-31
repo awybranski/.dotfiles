@@ -1,4 +1,3 @@
-
 linux: clean
 	./bin/linux.sh
 
